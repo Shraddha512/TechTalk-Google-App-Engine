@@ -39,7 +39,7 @@ installation instructions for your Linux distribution by following the instructi
 * Provide a Project name and a Project ID will be automatically generated for you. If you need to supply a custom 
   Project ID, click on Edit to supply one.
  ~~~
- <b>NOTE:</b> The project ID associated with the project is permanent and cannot be changed once a
+ NOTE: The project ID associated with the project is permanent and cannot be changed once a
         project is created. Please save the project ID for future use.
  ~~~
  
@@ -47,5 +47,8 @@ installation instructions for your Linux distribution by following the instructi
  
 * Once the project is created, perform the following steps in your local directory to deploy your app:
  ~~~
- <path to google_app_engine>/google_appengine/appcfg.py -A <your Project ID> update <path to the folder containing app code> /guestbook/
+ <path to google_app_engine>/google_appengine/appcfg.py -A <your Project ID> update <path to the folder containing app code>/guestbook/
 ~~~
+
+* To access more information about the Project, access the Project Dashboard here. A Sample Project Dashboard looks like this:
+![dashboard](https://cloud.githubusercontent.com/assets/9305577/10953963/e4cce1ee-8318-11e5-874b-c6b300620e57.png)
