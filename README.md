@@ -31,6 +31,7 @@ Software Development Kits (SDKs) for App Engine are available in all supported l
 - All of the APIs and libraries available to App Engine.
 - A simulated, secure sandbox environment, that emulates all of the App Engine services on your local computer.
 - Deployment tools that allow you to upload your application to the cloud and manage different versions of your application.
+
 The SDK manages your application locally, while the Google Developers Console manages your application in production. The Developers Console uses a web-based interface to create new applications, configure domain names, change which version of your application is live, examine access and error logs, and much more.
 
 **Features**
