@@ -74,3 +74,18 @@ SendGrid	Use SendGrid's library to send emails from your app and you can see sta
 |Users|	Allows applications to sign in users with Google Accounts or OpenID, and address these users with unique identifiers.|
 |XMPP|	Allows an application to send and receive chat messages to and from any XMPP-compatible chat messaging service.|
 
+**Advantages**
+
+- Infrastructure for Security: 
+Around the world, the Internet infrastructure that Google has is probably the most secure. There is rarely any type of unauthorized access till date as the application data and code are stored in highly secure servers.
+You can be sure that your app will be available to users worldwide at all times since Google has several hundred servers globally. Google’s security and privacy policies are applicable to the apps developed using Google’s infrastructure.
+- Scalability: 
+For any app’s success, this is among the deciding factors. Google creates its own apps using GFS, Big Table and other such technologies, which are available to you when you utilize the Google app engine to create apps. You only have to write the code for the app and Google looks after the testing on account of the automatic scaling feature that the app engine has. Regardless of the amount of data or number of users that your app stores, the app engine can meet your needs by scaling up or down as required.
+- Performance and Reliability:
+Google is among the leaders worldwide among global brands. So, when you discuss performance and reliability you have to keep that in mind. In the past 15 years, the company has created new benchmarks based on its services’ and products’ performance. The app engine provides the same reliability and performance as any other Google product.
+- Cost Savings:
+You don’t have to hire engineers to manage your servers or to do that yourself. You can invest the money saved in to other parts of your business.
+- Platform Independence:
+You can move all your data to another environment without any difficulty as there is not much dependency on the app engine platform.
+
+
