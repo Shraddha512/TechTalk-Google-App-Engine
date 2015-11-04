@@ -19,10 +19,10 @@ Google App Engine is a Platform as a Service (PaaS) offering that lets you build
 
 Google App Engine supports apps written in a variety of programming languages.
 
-*Java: Using App Engine’s Java runtime environment, you can build your application using standard Java technologies.
-*Python: App Engine features a fast Python interpreter and standard Python libraries.
-*PHP: App Engine uses Google's Cloud Platform services under the hood when you call standard PHP functions.
-*Go: App Engine features a Go runtime environment that runs natively compiled Go code.
+- Java: Using App Engine’s Java runtime environment, you can build your application using standard Java technologies.
+- Python: App Engine features a fast Python interpreter and standard Python libraries.
+- PHP: App Engine uses Google's Cloud Platform services under the hood when you call standard PHP functions.
+- Go: App Engine features a Go runtime environment that runs natively compiled Go code.
 
 **App Engine Development Environment**
 
