@@ -32,8 +32,6 @@ Software Development Kits (SDKs) for App Engine are available in all supported l
 - A simulated, secure sandbox environment, that emulates all of the App Engine services on your local computer.
 - Deployment tools that allow you to upload your application to the cloud and manage different versions of your application.
 
-The SDK manages your application locally, while the Google Developers Console manages your application in production. The Developers Console uses a web-based interface to create new applications, configure domain names, change which version of your application is live, examine access and error logs, and much more.
-
 **Features**
 
 | Feature        | Description    |
@@ -75,3 +73,4 @@ SendGrid	Use SendGrid's library to send emails from your app and you can see sta
 |URL Fetch|	Uses Google's networking infrastructure to efficiently issue HTTP and HTTPS requests to URLs on the web.|
 |Users|	Allows applications to sign in users with Google Accounts or OpenID, and address these users with unique identifiers.|
 |XMPP|	Allows an application to send and receive chat messages to and from any XMPP-compatible chat messaging service.|
+
